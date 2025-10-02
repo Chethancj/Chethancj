@@ -1,9 +1,9 @@
 # Hi, I'm Chethan Jayashankar 👋  
 
-🎓 MSc Data Science | 📍 United Kingdom | 🚀 Aspiring Data Scientist  
+🎓 MSc Data Science | 📍 United Kingdom | 🚀 Aspiring Data Scientist | https://chethancj.github.io/chethanjayashankar.github.io/ 
 
 I love turning messy data into meaningful insights and building ML-powered tools that solve real problems.  
-This GitHub is where I share my projects — a mix of machine learning, NLP, and end-to-end apps.  
+This GitHub is where I share my projects a mix of machine learning, NLP, and end-to-end apps.  
 
 ---
 
