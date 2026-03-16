@@ -17,7 +17,7 @@ Predicting passenger survival on the Titanic.
 
 ---
 
-### 💳 [Credit Card Fraud Detection](https://github.com/Chethancj/fraud-detection)  
+### 💳 [Credit Card Fraud Detection] (https://github.com/Chethancj/Credit-Card-Fraud-Detection) 
 Detecting fraudulent transactions in highly imbalanced datasets.  
 - SMOTE oversampling + ML models  
 - Business-oriented cost analysis (£500 per missed fraud, £5 per false alarm)  
