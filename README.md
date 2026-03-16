@@ -9,7 +9,7 @@ This GitHub is where I share my projects a mix of machine learning, NLP, and end
 
 ## 🔥 Featured Projects
 
-### 🚢 [Titanic Survival Prediction](https://github.com/Chethancj/titanic)  
+### 🚢 [Titanic Survival Prediction](https://github.com/Chethancj/titanic)
 Predicting passenger survival on the Titanic.  
 - Feature engineering + ML (LogReg, RandomForest, XGBoost)  
 - SHAP explainability to show *why* predictions were made  
