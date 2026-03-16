@@ -34,7 +34,7 @@ Understanding emotions in social media text.
 
 ---
 
-### 🩺 [Diabetes Risk Calculator App](https://github.com/Chethancj/diabetes-risk-app)  
+### 🩺 [Diabetes Risk Calculator App](https://github.com/Chethancj/hyperglycemia-streamlit-user-interface)
 A healthcare-focused Streamlit app.  
 - Logistic Regression model on Pima Diabetes dataset  
 - Predicts diabetes risk probability  
