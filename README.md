@@ -25,7 +25,7 @@ Detecting fraudulent transactions in highly imbalanced datasets.
 
 ---
 
-### 🐦 [Twitter Sentiment & Emotion Analysis](https://github.com/Chethancj/sentiment-analysis)  
+### 🐦 [Twitter Sentiment & Emotion Analysis] (https://github.com/Chethancj/twitter-sentiment-analysis) 
 Understanding emotions in social media text.  
 - TF-IDF + Logistic Regression baseline  
 - LSTM for deep learning classification  
