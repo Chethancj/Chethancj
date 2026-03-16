@@ -17,7 +17,7 @@ Predicting passenger survival on the Titanic.
 
 ---
 
-### 💳 [Credit Card Fraud Detection](https://github.com/your-username/fraud-detection)  
+### 💳 [Credit Card Fraud Detection](https://github.com/Chethancj/fraud-detection)  
 Detecting fraudulent transactions in highly imbalanced datasets.  
 - SMOTE oversampling + ML models  
 - Business-oriented cost analysis (£500 per missed fraud, £5 per false alarm)  
@@ -25,7 +25,7 @@ Detecting fraudulent transactions in highly imbalanced datasets.
 
 ---
 
-### 🐦 [Twitter Sentiment & Emotion Analysis](https://github.com/your-username/sentiment-analysis)  
+### 🐦 [Twitter Sentiment & Emotion Analysis](https://github.com/Chethancj/sentiment-analysis)  
 Understanding emotions in social media text.  
 - TF-IDF + Logistic Regression baseline  
 - LSTM for deep learning classification  
@@ -34,7 +34,7 @@ Understanding emotions in social media text.
 
 ---
 
-### 🩺 [Diabetes Risk Calculator App](https://github.com/your-username/diabetes-risk-app)  
+### 🩺 [Diabetes Risk Calculator App](https://github.com/Chethancj/diabetes-risk-app)  
 A healthcare-focused Streamlit app.  
 - Logistic Regression model on Pima Diabetes dataset  
 - Predicts diabetes risk probability  
