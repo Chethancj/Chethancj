@@ -39,7 +39,7 @@ I enjoy transforming complex problems into intelligent products that combine mac
 
 ## Featured Projects
 
-### 🧠 AI Narrative Intelligence Platform
+### 🧠 AI Narrative Intelligence Platform (https://github.com/Chethancj/ai-narrative-intelligence-platform)
 
 Multi-agent intelligence analysis system built using LangGraph, Groq, Tavily, Streamlit, and Plotly.
 
@@ -55,7 +55,7 @@ Features:
 
 ---
 
-### 🤖 Aegis-RAG
+### 🤖 Aegis-RAG (https://github.com/Chethancj/Aegis-RAG)
 
 Advanced Retrieval-Augmented Generation system focused on reliable and grounded AI responses.
 
@@ -70,7 +70,7 @@ Features:
 
 ---
 
-### 📊 Credit Card Fraud Detection
+### 📊 Credit Card Fraud Detection (https://github.com/Chethancj/Credit-Card-Fraud-Detection)
 
 Machine learning pipeline for identifying fraudulent transactions in highly imbalanced datasets.
 
@@ -85,7 +85,7 @@ Features:
 
 ---
 
-### 💬 Sentiment & Emotion Intelligence
+### 💬 Sentiment & Emotion Intelligence (https://github.com/Chethancj/twitter-sentiment-analysis)
 
 NLP project for multi-class emotion classification and sentiment analysis.
 
