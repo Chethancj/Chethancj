@@ -1,58 +1,158 @@
-# Hi, I'm Chethan Jayashankar 👋  
+# Hi, I'm Chethan Jayashankar 👋
 
-🎓 MSc Data Science | 📍 United Kingdom | 🚀 Aspiring Data Scientist | https://chethancj.github.io/chethanjayashankar.github.io/ 
-
-I love turning messy data into meaningful insights and building ML-powered tools that solve real problems.  
-This GitHub is where I share my projects a mix of machine learning, NLP, and end-to-end apps.  
-
----
-
-## 🔥 Featured Projects
-
-### 🚢 [Titanic Survival Prediction](https://github.com/Chethancj/titanic)
-Predicting passenger survival on the Titanic.  
-- Feature engineering + ML (LogReg, RandomForest, XGBoost)  
-- SHAP explainability to show *why* predictions were made  
-- Interactive Streamlit app: “Would you survive Titanic?”  
+🎓 MSc Data Science | 🇬🇧 United Kingdom
+🤖 AI Engineer & Data Scientist
+🚀 Building Multi-Agent AI Systems, GenAI Applications, and Intelligent Data Products
 
 ---
 
-### 💳 [Credit Card Fraud Detection] (https://github.com/Chethancj/Credit-Card-Fraud-Detection) 
-Detecting fraudulent transactions in highly imbalanced datasets.  
-- SMOTE oversampling + ML models  
-- Business-oriented cost analysis (£500 per missed fraud, £5 per false alarm)  
-- Real-time transaction simulation (stream + detect fraud instantly)  
+## About Me
+
+I'm a Data Science graduate passionate about building AI systems that go beyond traditional machine learning models.
+
+My interests include:
+
+* Multi-Agent AI Systems
+* Generative AI Applications
+* Retrieval-Augmented Generation (RAG)
+* LLM Engineering
+* MLOps & AI Deployment
+* Data Science & Analytics
+
+I enjoy transforming complex problems into intelligent products that combine machine learning, software engineering, and modern AI architectures.
 
 ---
 
-### 🐦 [Twitter Sentiment & Emotion Analysis] (https://github.com/Chethancj/twitter-sentiment-analysis) 
-Understanding emotions in social media text.  
-- TF-IDF + Logistic Regression baseline  
-- LSTM for deep learning classification  
-- Word clouds of Positive vs Negative tweets  
-- Expanded to multi-class emotions (Joy, Anger, Sadness, Surprise)  
+## Current Focus
+
+🔹 LangGraph & Agentic AI
+
+🔹 Multi-Agent System Design
+
+🔹 RAG Pipelines
+
+🔹 LLM Evaluation & Prompt Engineering
+
+🔹 AI Product Development
 
 ---
 
-### 🩺 [Diabetes Risk Calculator App](https://github.com/Chethancj/hyperglycemia-streamlit-user-interface)
-A healthcare-focused Streamlit app.  
-- Logistic Regression model on Pima Diabetes dataset  
-- Predicts diabetes risk probability  
-- Generates **personalised PDF health reports with lifestyle advice**  
-- SHAP interpretability inside the app  
+## Featured Projects
+
+### 🧠 AI Narrative Intelligence Platform
+
+Multi-agent intelligence analysis system built using LangGraph, Groq, Tavily, Streamlit, and Plotly.
+
+Features:
+
+* Evidence Retrieval
+* Source Credibility Scoring
+* Narrative Analysis
+* Executive Intelligence Reports
+* Interactive Dashboard
+
+**Tech:** LangGraph, Groq, Tavily, Streamlit, Plotly
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, SQL  
-- **ML & AI:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-- **NLP:** NLTK, SpaCy, HuggingFace  
-- **Deployment:** Streamlit, Flask/FastAPI, Heroku  
-- **Other:** Git, Docker, Jupyter  
+### 🤖 Aegis-RAG
+
+Advanced Retrieval-Augmented Generation system focused on reliable and grounded AI responses.
+
+Features:
+
+* Document Retrieval
+* Context-Aware Responses
+* LLM Integration
+* Evaluation Workflows
+
+**Tech:** Python, LangChain, Vector Databases
 
 ---
 
+### 📊 Credit Card Fraud Detection
 
-⭐️ Feel free to explore the repos and reach out if you’d like to collaborate!  
+Machine learning pipeline for identifying fraudulent transactions in highly imbalanced datasets.
+
+Features:
+
+* SMOTE Oversampling
+* Feature Engineering
+* Cost-Based Evaluation
+* Fraud Risk Analysis
+
+**Tech:** Scikit-Learn, Pandas, XGBoost
+
+---
+
+### 💬 Sentiment & Emotion Intelligence
+
+NLP project for multi-class emotion classification and sentiment analysis.
+
+Features:
+
+* Text Classification
+* Emotion Detection
+* Explainable NLP
+* Visualization Dashboards
+
+**Tech:** NLP, Deep Learning, Python
+
+---
+
+## Tech Stack
+
+### AI & Machine Learning
+
+* Python
+* Scikit-Learn
+* XGBoost
+* TensorFlow
+* PyTorch
+
+### Generative AI
+
+* LangGraph
+* LangChain
+* OpenAI
+* Groq
+* RAG Pipelines
+
+### Data Science
+
+* Pandas
+* NumPy
+* SQL
+* Matplotlib
+* Plotly
+
+### Deployment
+
+* Streamlit
+* FastAPI
+* Docker
+* GitHub
+
+---
+
+## Currently Building
+
+🚧 Autonomous AI Engineering Team
+
+A multi-agent software engineering system capable of planning, reviewing, and generating production-ready code.
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing:
+
+* AI Engineering
+* Agentic AI
+* Data Science
+* Open Source Projects
+* Collaboration Opportunities
+
+📫 Feel free to connect and explore my repositories.
+
 
